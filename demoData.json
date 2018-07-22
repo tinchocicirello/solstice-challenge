@@ -1,0 +1,20 @@
+{
+  "name": "Test Contact",
+  "birthdate": "1994-06-16",
+  "city": "Palermo",
+  "state": "Ciudad Autonoma de Buenos Aires",
+  "address": "Fake Street 123",
+  "company": "Solstice",
+  "email": "email@test.com",
+  "phones": [
+    {
+      "number": "+54(011)1537940286",
+      "type": "Personal"
+    },
+    {
+      "number": "+54(011)1537940286",
+      "type": "Work"
+    }
+  ],
+  "profileImageUrl": "http://images.com/image.jpg"
+}
