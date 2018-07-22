@@ -42,5 +42,10 @@ dependencies {
 	//for logging
 	compile('log4j:log4j:1.2.17')
 
+	// for unit tests
+	testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test'
+	testCompile group: 'junit', name: 'junit'
+	testCompile group: 'org.hsqldb', name: 'hsqldb'
+
 
 }

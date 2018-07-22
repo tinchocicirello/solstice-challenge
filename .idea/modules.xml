@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/solstice-challenge.iml" filepath="$PROJECT_DIR$/solstice-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solstice-challenge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/solstice-challenge_main.iml" group="solstice-challenge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solstice-challenge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/solstice-challenge_test.iml" group="solstice-challenge" />
+    </modules>
+  </component>
+</project>
